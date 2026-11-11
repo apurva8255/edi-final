@@ -128,3 +128,4 @@ Click **📊 Report** to save a CSV file:
 - **No keystroke content** is recorded — only counts and timing
 - All data stays **local on your machine**
 - Dataset CSV contains only anonymized behavioral metadata
+# edi-final
